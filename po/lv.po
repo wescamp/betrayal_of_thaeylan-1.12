@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: betrayal_of_thaeylan-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-03 23:44+0200\n"
+"POT-Creation-Date: 2013-07-13 11:24-0400\n"
 "PO-Revision-Date: 2013-06-03 23:44+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,17 +14,17 @@ msgstr ""
 "2);\n"
 
 #. [multiplayer]: id=01_betrayal, type=BoT Pathfinder, type=BoT Field Marshal
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:20
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:24
 msgid "Betrayal of Thaeylan"
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:41
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:45
 msgid "Synn must reach the Southern Crossing fortress"
 msgstr ""
 
 #. [objectives]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:46
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:50
 msgid ""
 "\n"
 "No gold will be carried over to the next scenario.\n"
@@ -34,12 +34,12 @@ msgid ""
 msgstr ""
 
 #. [event]: (id=s3OrcWarrior1)}, (id=s3OrcWarrior2)}, (id=s3OrcWarrior3)}, (id=s3WolfRider1)}, (id=s3WolfRider2)}, id=s4nSwordsman1, id=s4nSpearman1, id=s4nBowman1, id=s4SupressRebels, id=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:156
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:160
 msgid "Julian"
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:190
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:194
 msgid ""
 "The kingdom of Thaeylan was forged three generations ago. It united "
 "humankind from the coastal plains of the Gladian Sea in the west to the port "
@@ -50,7 +50,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:195
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:199
 msgid ""
 "But the royal succession in Thaeylan was burdened, as great men often are, "
 "with poor offspring and the petty squabbles of greedy adjutants. When the "
@@ -59,7 +59,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:200
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:204
 msgid ""
 "Ayndun, the military's Grand Marshal, expelled Ryden from the capital and "
 "secured the coastal plains. Ryden rode east and from there mounted a "
@@ -68,7 +68,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:205
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:209
 msgid ""
 "The kingdom of Thaeylan began to turn inward. Ayndun and Ryden devoured the "
 "kingdom's wealth in a bitter war. New taxes on food and fighting men were "
@@ -76,7 +76,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:210
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:214
 msgid ""
 "King Ayndun's army suffered many losses. Command of the eastern garrison "
 "fell to Muhyrim, a Field Marshal who earned his commission in the hazard of "
@@ -88,25 +88,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ayndun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:220
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:224
 msgid ""
 "Muhyrim, you have asked me for reinforcements for many months now and today "
 "I will deliver."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:224
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:228
 msgid ""
 "That is great news. These walls are the only thing holding back Ryden's men."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:233
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:237
 msgid "What is this!"
 msgstr ""
 
 #. [message]: speaker=Ayndun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:237
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:241
 msgid ""
 "I have made a pact with the orcs. They have agreed to aid us in pushing "
 "Ryden's forces back, and I was able to pay their bounty by melting down some "
@@ -114,7 +114,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:241
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:245
 msgid ""
 "Have you gone mad? The river ramparts are the only thing that has held the "
 "orcs back all these years! How can you let them into the Thaeylan "
@@ -122,7 +122,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ayndun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:245
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:249
 msgid ""
 "We are desperate, Muhyrim. From the field you can't see the strains my "
 "kingdom faces! The orcish mind is simple. They want money and as long as we "
@@ -130,29 +130,29 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ronak
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:259
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:263
 msgid "You are fools! Now we kill you and take our pay and more."
 msgstr ""
 
 #. [message]: speaker=Ayndun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:263
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:267
 msgid "I expect you to keep to your agreement or we will crush you!"
 msgstr ""
 
 #. [message]: speaker=Ronak
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:267
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:271
 msgid "Crush us? Your army is weak."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:271
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:275
 msgid ""
 "The orcs are riding in great numbers. They will not easily be pushed back "
 "across the river."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:275
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:279
 msgid ""
 "We must abandon our position and hurry to the countryside. I will raise a "
 "rebellion and rally the peasants to the defense of their land. My name still "
@@ -162,167 +162,167 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:279
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:283
 msgid ""
 "I fear this is bigger than we can handle alone, Muhyrim. We must think of "
 "the southern alliance."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:283
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:287
 msgid ""
 "There is no time for that! The orcs will lay siege to the castle within a "
 "few days. Go now and let nothing delay you!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:296
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:300
 msgid ""
 "Please select your preferred difficulty level. This will last for the entire "
 "campaign."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:298
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:302
 msgid "Normal"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:307
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:311
 msgid "Hard"
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:381
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:385
 msgid ""
 "Our fortifications in the north have fallen! The work of generations has "
 "been lost."
 msgstr ""
 
 #. [message]: speaker=peasant1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:409
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:413
 msgid ""
 "Down with the King! He has brought nothing but war and now he brings orcs. "
 "We fight for you sir!"
 msgstr ""
 
 #. [message]: speaker=s4SupressRebels
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:413
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:417
 msgid "You would impune the King? I will teach these rebels what a fight is."
 msgstr ""
 
 #. [message]: speaker=peasant2
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:429
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:433
 msgid "We've had enough of this King and his wars."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:462
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:466
 msgid "The Orcs have laid waste to this village."
 msgstr ""
 
 #. [message]: speaker=ruffian1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:471
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:475
 msgid "Let's bash some orcish skulls in!"
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:506
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:510
 msgid "Nothing left after the orcs came through."
 msgstr ""
 
 #. [message]: speaker=horseman1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:522
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:526
 msgid ""
 "My father died under your command, Muhyrim. He never had anything but "
 "respect for you. I will ride with you."
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:576
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:580
 msgid "To arms!"
 msgstr ""
 
 #. [message]: speaker=peasant5
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:605
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:609
 msgid "Where is the battle?"
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:657
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:661
 msgid "This is a dark hour."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:678
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:682
 msgid ""
 "The orcs will slaughter anyone in the villages they capture. I must reach "
 "them first to rouse the peasants to battle."
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:726
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:730
 msgid "We're not afraid of the orcs now that you're here!"
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:749
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:753
 msgid "Hail Synn!"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:753
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:757
 msgid "A robbery! You could not have picked a worse time to delay me."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:757
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:761
 msgid ""
 "Not this time. I come to ask if the rumors are true. Has Ayndun let Orcs "
 "loose in our land? Have you and Muhyrim turned against him?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:761
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:765
 msgid ""
 "I'm afraid it's true. I am hurrying now to alert Herald so that he can "
 "prepare."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:765
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:769
 msgid "Word must have spread to Ayndun's garrisons by now. You will need help."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:783
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:787
 msgid "We will help you get to Herald."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:793
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:797
 msgid ""
 "Your company is welcome, but we must move now. The orcs have already "
 "destroyed the northern defenses. They will spread across the valley quickly."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:799
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:803
 msgid "Your company is welcome, but we must move now."
 msgstr ""
 
 #. [unit]: type=Knight, id=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:818
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:822
 msgid "Herald"
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:824
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:828
 msgid "Synn, what's going on? Why have you come so far south?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:828
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:832
 msgid ""
 "Ayndun made a pact with the Orcs and allowed them to cross unhindered. They "
 "have breached our defenses and are scattered throughout the countryside. "
@@ -330,7 +330,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:832
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:836
 msgid ""
 "It seems that Ayndun has finally lost the last trace of honor that still "
 "clung to him. We must alert the resistance. Long have we plotted together "
@@ -339,7 +339,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:836
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:840
 msgid ""
 "This is a tragedy for our kingdom, Herald. But it will soon be a tragedy for "
 "all the peoples of the south. This battle is lost. Even as we speak more "
@@ -347,7 +347,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:840
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:844
 msgid ""
 "You are right, Synn. I will ride into the south and begin to raise an army "
 "among the peasants in the countryside. You and Muhyrim face a more perilous "
@@ -356,7 +356,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:844
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:848
 msgid ""
 "We will leave immediately. But before I go, Herald, I want to ask you a "
 "favor. Muhyrim would not like me asking you this, but I must. His son is in "
@@ -364,19 +364,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:848
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:852
 msgid ""
 "Say no more. I will pass through there on my way and I will be sure he is "
 "safe from Ayndun's spies."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:852
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:856
 msgid "Thank you."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:857
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:861
 msgid ""
 "You will need some help. Head to the village of Landrun just north of here. "
 "It is a resistance stronghold, but if you wear this around your neck they "
@@ -385,12 +385,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:861
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:865
 msgid "Perhaps you forget that I come from the outlands."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:865
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:869
 msgid ""
 "Don't be a fool. You were a young man when last you were there. Dirkmun will "
 "know the land and the people. He is a smuggler who journeys regularly into "
@@ -398,104 +398,104 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:869
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:873
 msgid ""
 "You're right. Now is not the time to refuse help. I will go if I can spare "
 "the time."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:873
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:877
 msgid "Farewell. If all goes well, I will send word of my progress."
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:891
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:895
 msgid "Synn and Muhyrim must reach the signposts in the southeast"
 msgstr ""
 
 #. [unit]: type=Bandit, id=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:928
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:932
 msgid "Dirkmun"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:939
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:943
 msgid "So you want to go into the outlands, eh?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:943
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:947
 msgid "Herald says you might be able to help us."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:947
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:951
 msgid ""
 "Well why not? With all these orcs about I think it's time for me to leave as "
 "well. But we'll need some help if we're going to make it."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:973
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:977
 msgid ""
 "We must hurry. Muhyrim is waiting for our return. I'm afraid he won't make "
 "it if we don't get there soon."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:977
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:981
 msgid "Let's go."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:998
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1002
 msgid "So you will defend the King as well, Julian?"
 msgstr ""
 
 #. [message]: speaker=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1005
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1009
 msgid ""
 "I must think of my family. If I betray the King he will take his vengeance."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1009
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1013
 msgid ""
 "We trained together years ago. You are my friend. Will you really kill me?"
 msgstr ""
 
 #. [message]: speaker=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1013
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1017
 msgid "We are soldiers. Let us not wish for different lives now."
 msgstr ""
 
 #. [message]: speaker=Ayndun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1024
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1028
 msgid "My kingdom is gone. What have I done?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1028
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1032
 msgid "At least there is one death today we will not mourn."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1069
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1073
 msgid ""
 "It has been a long time since I have been to the outlands. I'm not sure I "
 "ever wanted to return."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1073
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1077
 msgid ""
 "These lands are full of those who have fought Ayndun's rule. I don't expect "
 "we will find many friends where we are going."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1077
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:1081
 msgid ""
 "You may be surprised. The borders of the kingdom are more porous than you "
 "would think, and those on its fringes know more about us than we about them."
@@ -1301,7 +1301,7 @@ msgstr ""
 #: betrayal_of_thaeylan/scenarios/08a_burning_mountain.cfg:28
 #: betrayal_of_thaeylan/scenarios/09_second_kingdom.cfg:31
 #: betrayal_of_thaeylan/scenarios/10_river_uran.cfg:150
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:86
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:87
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -2828,17 +2828,17 @@ msgid "Don't be so sure, Muhyrim. The coast is not the same as you left it."
 msgstr ""
 
 #. [multiplayer]: id=11_southern_pass
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:16
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:18
 msgid "11 - The Southern Pass"
 msgstr ""
 
 #. [side]: type=Necromancer, id=Milyar
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:55
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:57
 msgid "Milyar"
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:127
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:144
 msgid ""
 "The party set off towards the western coast, crossing over the mountains "
 "which separated them from the heart of the Thaeylan Kingdom. Along the way, "
@@ -2848,7 +2848,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:132
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:149
 msgid ""
 "<span style='italic'>After the orcish invasion of Thaeylan, I mustered my "
 "confidantes and sought to raise a rebellion in the south. But the generals "
@@ -2858,7 +2858,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:137
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:154
 msgid ""
 "<span style='italic'>On the third day of battle, the sky darkened and a "
 "terrible wind scattered men and orc together like leaves on a stone floor. "
@@ -2871,18 +2871,18 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:142
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:159
 msgid ""
 "<span style='italic'>We sent scouts into the night to learn what we could, "
 "but many didn't return. Those that did told us of the dead that walked, of a "
 "darkness that was blacker than night. The barons remain in hiding and they "
 "have safeguarded much of their wealth. But those of us who fought were "
-"hunted down and fled across the mountains. I know not the conditions we will "
-"find when we return, but I have no hope that they will be good.</span>"
+"hunted down and chased across the mountains. I know not the conditions we "
+"will find when we return, but I have no hope that they will be good.</span>"
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:163
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:180
 msgid ""
 "The valley is overrun and the villages have been razed to the ground. It "
 "looks like the survivors cling to the mountainside in tent camps. Perhaps we "
@@ -2890,27 +2890,27 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:167
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:184
 msgid ""
 "Even if we managed to pass unseen, they would surely attack our rear as soon "
 "as we arrived on the plains. We must clear the valley."
 msgstr ""
 
 #. [message]: speaker=Milyar
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:204
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:221
 msgid ""
 "As day slowly fades to night, fire stirs their hearts in fright. Come alive!"
 msgstr ""
 
 #. [message]: speaker=Nivyan
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:227
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:244
 msgid ""
 "Milyar, have you succumbed to the temptations of the dark arts? You used to "
 "seek out knowledge in the service of the southern lands."
 msgstr ""
 
 #. [message]: speaker=Milyar
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:231
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:248
 msgid ""
 "It was knowledge we magi sought and knowledge we acquired, greater than any "
 "of the petty barons who spat and squabbled and squandered the riches of the "
@@ -2920,7 +2920,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Nivyan
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:235
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:252
 msgid ""
 "The Council turned its back on earthly authority long ago. You and Ephroem "
 "and everyone of his underlings will rule over an empty land if you don't "
@@ -2928,7 +2928,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Milyar
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:239
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:256
 msgid ""
 "An empty land? Yes, empty of the pride of kings and queens, and the thievery "
 "of their servants. The south has been ruled by selfish passions since the "
@@ -2936,15 +2936,140 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Nivyan
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:243
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:260
 msgid ""
 "It is one thing to know power. Quite another to wield it. You are awakening "
 "powers you can not control!"
 msgstr ""
 
+#. [message]: speaker=Milyar
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:291
+msgid ""
+"Your strength is futile against the will of the magi. This valley will be a "
+"watery grave for you all."
+msgstr ""
+
+#. [message]
+#. [message]: speaker=Synn
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:343
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:349
+msgid "He has burst a whole in the dam!"
+msgstr ""
+
+#. [message]: speaker=Nivyan
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:355
+msgid ""
+"Curse you, Milyar, and curse every fool who has held a book and thought "
+"himself a god!"
+msgstr ""
+
+#. [message]: speaker=Herald
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:359
+msgid "To the hills! The waters will carry off everyone in the valley."
+msgstr ""
+
+#. [message]: speaker=Nivyan
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:363
+msgid ""
+"I will call on all my powers to slow the water's advance. Fickle winds, I "
+"beg you, blow strong for me today."
+msgstr ""
+
 #. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:274
-msgid "To be continued..."
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:382
+msgid ""
+"<span style='italic'>Nivyan has begun summoning the winds to hold back the "
+"water and will be unable to move or attack. At the start of Muhyrim's turn, "
+"you will be able to choose whether or not to stop his casting and regain "
+"control of him.</span>"
+msgstr ""
+
+#. [message]: speaker=Muhyrim
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:386
+msgid ""
+"Someone should stay to protect Nivyan, but the rest of us must make haste to "
+"the mountains. What of your steed, Herald?"
+msgstr ""
+
+#. [message]: speaker=Herald
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:390
+msgid ""
+"We horsemen must take shelter in the forts which line the river. Go now! "
+"There's no time."
+msgstr ""
+
+#. [objective]: condition=win
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:409
+msgid "Survive the flood"
+msgstr ""
+
+#. [objectives]
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:416
+msgid ""
+"\n"
+"    The flood waters will fill the valley and wash away any non-flying units "
+"as soon as it reaches them. Units are only safe on mountains or in forts.\n"
+"\n"
+"    Nivyan will slow the waters' advance to one tile per side turn as long "
+"as he is casting. At the start of Muhyrim's turn, you will be able to choose "
+"whether or not to stop his casting and regain control of him. The waters "
+"will advance at two tiles per side turn when he stops casting."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:520
+msgid "Should Nivyan continue casting to hold back the waters?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:522
+msgid "Yes, we must get the men to safety."
+msgstr ""
+
+#. [message]
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:548
+msgid "Nivyan's eyes have gone black!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:555
+msgid "No, he must get to high ground quickly."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:616
+msgid ""
+"<span style='italic'>Nivyan staggered silently towards safety and collapsed."
+"</span>"
+msgstr ""
+
+#. [message]: speaker=Nivyan
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:657
+msgid ""
+"He must be mad. They all must be mad. To destroy the dam and drown the "
+"people -- and then call it salvation!"
+msgstr ""
+
+#. [message]: speaker=Jynn
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:666
+msgid "Welcome back to the world of the living. You missed all the fun."
+msgstr ""
+
+#. [message]: speaker=Nivyan
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:670
+msgid "Quiet, boy! I've had enough fun for now."
+msgstr ""
+
+#. [message]: speaker=Muhyrim
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:676
+msgid ""
+"The stoneworks of Traegun in ruins. Many of the richest fields will be "
+"flooded. Even if we retake the estates, we'll starve without the harvest."
+msgstr ""
+
+#. [message]: speaker=Herald
+#: betrayal_of_thaeylan/scenarios/11_southern_pass.cfg:680
+msgid "Aye. It will be a dark winter."
 msgstr ""
 
 #. [unit_type]: id=BoT Dark Cloud
