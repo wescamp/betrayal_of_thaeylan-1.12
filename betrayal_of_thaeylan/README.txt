@@ -1,5 +1,5 @@
 Betrayal of Thaeylan
-v0.7.0
+v0.7.1
 --------------------
 
 1. What is it?
@@ -13,7 +13,7 @@ v0.7.0
 1. What is it?
 --------------
 
-A two-player campaign for Battle for Wesnoth that will have 12-15 scenarios when complete. Nine scenarios, which form the first of two major story-arcs, are completed in this version.
+A two-player campaign for Battle for Wesnoth that will have 12-15 scenarios when complete. Eleven scenarios, which form the first of two major story-arcs, are completed in this version.
 
 This scenario is a battle-/army-based campaign similar in some respects to Heir to the Throne. In the beginning, the first player uses predominantly outlaws and the second player uses loyalist units. There are five new player-controlled units integrated in the campaign in its current state:
 
@@ -62,6 +62,7 @@ Devlings						Original idea and art, dreampilot; portraits, EVILEST
 Dark Cloud						Taken from Era of Magic, by inferno8, but the original creator is not clear
 Torchbearer						Darker_Dreams, http://forums.wesnoth.org/viewtopic.php?f=23&t=23911
 Fire Master						From the Vaeringjar, by Cloud and Grigistian
+Nivyan collapsed (scen11)		Obvious paintover (my work) of the collapsed elf from Invasion from the Unknown, by shadowmaster
 
 STORY IMAGES
 Scenario 1	Frame 1 (Kingdom)	Scavenger, from The South Guard (mainline)
@@ -85,6 +86,11 @@ Scenario 11	All Frames			Lord Bob
 
 5. Change log
 -------------
+
+v0.7.1
+Released on 4 June 2013
+- Completed victory dialogue and major event in scenario 11
+- Added casting animation frame for Blue Mage and Tempest
 
 v0.7.0
 Released on 30 May 2013
